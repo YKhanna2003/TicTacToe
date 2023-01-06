@@ -5,13 +5,11 @@ A short game of TicTacToe coded in C++ Language. Just a few lines of code coveri
 ```bash
 make main
 ```
-1. Game in Action
-
-![Gameplay](tictactoe.png)
-
 ```bash
 ./tictactoe
 ```
+Game in Action
+![Gameplay](image.png)
 
 Have fun.
 Cheers!
