@@ -9,6 +9,7 @@ make main
 ./tictactoe
 ```
 Game in Action
+
 ![Gameplay](image.png)
 
 Have fun.
